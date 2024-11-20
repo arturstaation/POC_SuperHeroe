@@ -50,8 +50,6 @@ export default function Hero({ code }) {
                     style={{
                         width: `${heroData.intelligence}%`,
                         backgroundColor: '#F9B32F',
-                        display: 'inline-block',
-                        height: '10px',
                     }}
                 ></span>
             </p>
@@ -61,8 +59,6 @@ export default function Hero({ code }) {
                     style={{
                         width: `${heroData.strength}%`,
                         backgroundColor: '#FF7C6C',
-                        display: 'inline-block',
-                        height: '10px',
                     }}
                 ></span>
             </p>
