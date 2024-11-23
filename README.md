@@ -40,7 +40,7 @@ Para acessar esta prova de conceito (POC) siga os passos abaixo:
 - **Next.js** versão 14 ou superior
 
 ## Visão Geral
- Nesta POC, foi utilizado o **Next.js** para consumir a API **SuperHero API** e exibir informações como nome, inteligência, força e imagem de um herói selecionado.
+ Nesta POC, foi utilizado o **Next.js** para consumir a API **SuperHero API** e exibir informações como nome, inteligência, força e imagem de heróis.
  
 ### O que é a SuperHero API? 
  
@@ -128,3 +128,4 @@ export default function Hero({ code }) {
 
 Abaixo está um exemplo de como os dados dos heróis são exibidos no navegador: 
 
+![](poc_superhero_imagem.png)
